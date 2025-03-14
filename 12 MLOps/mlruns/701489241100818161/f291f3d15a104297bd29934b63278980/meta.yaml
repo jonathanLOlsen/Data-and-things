@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/f291f3d15a104297bd29934b63278980/artifacts
+end_time: 1741907856641
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: f291f3d15a104297bd29934b63278980
+run_name: stately-perch-326
+run_uuid: f291f3d15a104297bd29934b63278980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907851245
+status: 3
+tags: []
+user_id: Jlo

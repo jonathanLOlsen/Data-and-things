@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/d60e6049427f4763895d845317514cd6/artifacts
+end_time: 1741907871664
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: d60e6049427f4763895d845317514cd6
+run_name: spiffy-wren-574
+run_uuid: d60e6049427f4763895d845317514cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907864956
+status: 3
+tags: []
+user_id: Jlo

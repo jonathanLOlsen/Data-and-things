@@ -1,0 +1,6 @@
+# Ignore large CSV files
+13 Recommender systems/Books.csv
+13 Recommender systems/credits.csv
+
+# Ignore large model file
+12 MLOps/model_rf_500.pkl

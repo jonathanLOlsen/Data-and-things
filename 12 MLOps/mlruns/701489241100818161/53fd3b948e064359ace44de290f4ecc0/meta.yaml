@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/53fd3b948e064359ace44de290f4ecc0/artifacts
+end_time: 1741907501413
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: 53fd3b948e064359ace44de290f4ecc0
+run_name: painted-mole-773
+run_uuid: 53fd3b948e064359ace44de290f4ecc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907490103
+status: 3
+tags: []
+user_id: Jlo

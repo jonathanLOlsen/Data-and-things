@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/2b9b34b26b984e9ab418885e51b55031/artifacts
+end_time: 1741907525223
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: 2b9b34b26b984e9ab418885e51b55031
+run_name: mysterious-carp-983
+run_uuid: 2b9b34b26b984e9ab418885e51b55031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907516977
+status: 3
+tags: []
+user_id: Jlo

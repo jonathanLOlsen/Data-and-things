@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/fb203cc17e0a446b84b46b0b64bf3eee/artifacts
+end_time: 1741907864942
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: fb203cc17e0a446b84b46b0b64bf3eee
+run_name: rare-rook-387
+run_uuid: fb203cc17e0a446b84b46b0b64bf3eee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907856649
+status: 3
+tags: []
+user_id: Jlo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/8a6ff565d3e948358c828b1f2ece4c46/artifacts
+end_time: 1741907851236
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: 8a6ff565d3e948358c828b1f2ece4c46
+run_name: powerful-moose-618
+run_uuid: 8a6ff565d3e948358c828b1f2ece4c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907845503
+status: 3
+tags: []
+user_id: Jlo

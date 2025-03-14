@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/e5c552584948473ba102a5dcedd9e5cc/artifacts
+end_time: 1741907840046
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: e5c552584948473ba102a5dcedd9e5cc
+run_name: able-goose-659
+run_uuid: e5c552584948473ba102a5dcedd9e5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907833721
+status: 3
+tags: []
+user_id: Jlo

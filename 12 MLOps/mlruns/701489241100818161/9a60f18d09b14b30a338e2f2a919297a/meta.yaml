@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/9a60f18d09b14b30a338e2f2a919297a/artifacts
+end_time: 1741907490091
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: 9a60f18d09b14b30a338e2f2a919297a
+run_name: legendary-rook-128
+run_uuid: 9a60f18d09b14b30a338e2f2a919297a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907479440
+status: 3
+tags: []
+user_id: Jlo

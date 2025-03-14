@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Jlo/Desktop/CS%202%20semester/DT/Data-and-things/12%20MLOps/mlruns/701489241100818161/f5f97e1b4ddc4287bf3b5c3bf2ed2f7f/artifacts
+end_time: 1741907509485
+entry_point_name: ''
+experiment_id: '701489241100818161'
+lifecycle_stage: active
+run_id: f5f97e1b4ddc4287bf3b5c3bf2ed2f7f
+run_name: languid-sponge-740
+run_uuid: f5f97e1b4ddc4287bf3b5c3bf2ed2f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741907501427
+status: 3
+tags: []
+user_id: Jlo
